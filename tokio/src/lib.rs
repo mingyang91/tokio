@@ -463,7 +463,6 @@ compile_error! {
         feature = "io-std",
         feature = "net",
         feature = "process",
-        feature = "rt-multi-thread",
         feature = "signal"
     )
 ))]
